@@ -415,7 +415,7 @@ F 1 "Led_Small" H 13925 6550 50  0000 L CNN
 F 2 "" V 14100 6650 50  0000 C CNN
 F 3 "" V 14100 6650 50  0000 C CNN
 	1    14100 6650
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Led_Small D?
@@ -426,7 +426,7 @@ F 1 "Led_Small" H 13925 6900 50  0000 L CNN
 F 2 "" V 14100 7000 50  0000 C CNN
 F 3 "" V 14100 7000 50  0000 C CNN
 	1    14100 7000
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Led_Small D?
@@ -437,7 +437,7 @@ F 1 "Led_Small" H 13925 7250 50  0000 L CNN
 F 2 "" V 14100 7350 50  0000 C CNN
 F 3 "" V 14100 7350 50  0000 C CNN
 	1    14100 7350
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Led_Small D?
@@ -448,7 +448,7 @@ F 1 "Led_Small" H 13925 7600 50  0000 L CNN
 F 2 "" V 14100 7700 50  0000 C CNN
 F 3 "" V 14100 7700 50  0000 C CNN
 	1    14100 7700
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Led_Small D?
@@ -459,7 +459,7 @@ F 1 "Led_Small" H 13925 7950 50  0000 L CNN
 F 2 "" V 14100 8050 50  0000 C CNN
 F 3 "" V 14100 8050 50  0000 C CNN
 	1    14100 8050
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Led_Small D?
@@ -470,7 +470,7 @@ F 1 "Led_Small" H 13925 8300 50  0000 L CNN
 F 2 "" V 14100 8400 50  0000 C CNN
 F 3 "" V 14100 8400 50  0000 C CNN
 	1    14100 8400
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L R R?
