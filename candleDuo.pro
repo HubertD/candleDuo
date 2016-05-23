@@ -1,4 +1,4 @@
-update=Mo 23 Mai 2016 15:49:37 CEST
+update=Mo 23 Mai 2016 19:56:01 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,5 @@ LibName34=/home/hd/kicad/lib/sub-d9
 LibName35=/home/hd/kicad/lib/lm27313
 LibName36=/home/hd/kicad/lib/tja1021
 LibName37=/home/hd/kicad/lib/tpd2e2u06
+LibName38=/home/hd/kicad/lib/apem_da05
+LibName39=/home/hd/kicad/lib/led_duo
