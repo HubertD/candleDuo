@@ -1,4 +1,4 @@
-update=Mo 23 Mai 2016 19:56:01 CEST
+update=Di 24 Mai 2016 23:26:34 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,3 +68,4 @@ LibName36=/home/hd/kicad/lib/tja1021
 LibName37=/home/hd/kicad/lib/tpd2e2u06
 LibName38=/home/hd/kicad/lib/apem_da05
 LibName39=/home/hd/kicad/lib/led_duo
+LibName40=/home/hd/kicad/lib/onsemi-cm1231
